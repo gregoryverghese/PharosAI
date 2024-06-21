@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="PharosAI-Logo_stacked_lightmode@2x.png" alt="PharosAI Logo" width="200"/>
+</p>
+
+<h1 align="center">PharosAI</h1>
+
 # PharosAI Website
 
 ## Overview
