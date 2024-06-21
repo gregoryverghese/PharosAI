@@ -2,10 +2,6 @@
   <img src="PharosAI-Logo_stacked_lightmode@2x.png" alt="PharosAI Logo" width="200"/>
 </p>
 
-<h1 align="center">PharosAI</h1>
-
-# PharosAI Website
-
 ## Overview
 
 PharosAI is a platform dedicated to navigating the path to AI-assisted healthcare. This repository contains the source code for the PharosAI landing page, showcasing our mission to revolutionize healthcare with AI.
