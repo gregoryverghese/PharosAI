@@ -27,12 +27,14 @@ cd PharosAI
 
 ```bash
 npm install
+```
 
 ### Running Locally
 To run the website locally, open index.html in your web browser or use a local server like http-server
 
 ```bash
 npx http-server
+```
 
 ### Deployment
 Deploy the website to Heroku:
@@ -40,6 +42,7 @@ Deploy the website to Heroku:
 heroku login
 heroku create
 git push heroku main
+```
 
 ### Contact
 For any inquiries, please contact: gregory.verghese@pharosai.co.uk
